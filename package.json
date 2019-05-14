@@ -1,7 +1,7 @@
 {
   "name": "mail-with-node-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple formulaire de connection",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
